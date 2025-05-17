@@ -1,8 +1,8 @@
 pandas 
-mlflow==2.22.0
-motebook
+mlflow
+notebook
 numpy 
-sklearn
+scikit-learn
 matplotlib
 python-box
 pyYAML
